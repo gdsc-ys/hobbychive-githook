@@ -1,2 +1,2 @@
-ln -s ../../hook/pre-commit.sh .git/hooks/pre-commit
-ln -s ../../hook/pre-push.sh .git/hooks/pre-push
+ln -sf ../../hook/pre-commit.sh .git/hooks/pre-commit
+ln -sf ../../hook/pre-push.sh .git/hooks/pre-push
